@@ -24,4 +24,3 @@ class Patient
     appointments.map { |appointment|appointment.doctor==self }
   end
 end
-
